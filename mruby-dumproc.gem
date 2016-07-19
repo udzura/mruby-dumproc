@@ -1,0 +1,6 @@
+name: mruby-dumproc
+description: Dumproc class
+author: Uchio Kondo
+website: https://github.com/udzura/mruby-dumproc
+protocol: git
+repository: https://github.com/udzura/mruby-dumproc.git
