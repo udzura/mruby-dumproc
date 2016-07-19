@@ -1,5 +1,2 @@
-class Dumproc
-  def bye
-    self.hello + " bye"
-  end
+module Dumproc
 end
